@@ -2,15 +2,14 @@
 
 This is a react component that listens for click events outside of the component's bounds and calls a callback.
 
-<img
+<img 
 src="https://thuc.tech/img/ype1B03"
 width="200"
 height="200"
 style="object-fit: contain;"
 alt="Illustration"
 draggable="false"
-
->
+/>
 
 ## Installation
 
