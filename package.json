@@ -1,6 +1,6 @@
 {
     "name": "click-away-event-listener",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Click away event listener for React",
     "private": false,
     "main": "dist/index",
